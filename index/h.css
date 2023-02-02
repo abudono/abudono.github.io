@@ -21,7 +21,19 @@
     background-attachment: fixed;
     cursor: url(https://cdn.jsdelivr.net/gh/Ukenn2112/UkennWeb@5.0/cur/normal.cur), auto
     }
-    
+
+	.me{
+		font-size: 22px;
+		color: #f3e2b1;
+		text-decoration: none;
+	}
+
+	.blog{
+		font-size: 22px;
+		color: #f3e2b1;
+		text-decoration: none;
+	}
+
 	div.background{
 		position: fixed;
 		width: 100%;
@@ -730,7 +742,7 @@
 	}
 
 	nav{
-		padding: 15px 5%;
+		padding: 32px 5%;
 		overflow: auto;
 		font-size: 13px;
 		left: 0;
@@ -745,7 +757,7 @@
 	}
 
 	.ch{
-		padding-top: 30%;
+		padding-top: 20%;
 	}
 
     .hello {
